@@ -1,0 +1,95 @@
+{
+    "products": [
+      {
+        "model": "iPhone 15 Pro Max",
+        "release_year": 2023,
+        "storage_options": ["128GB", "256GB", "512GB", "1TB"],
+        "colors": ["Titanium Black", "Titanium White", "Titanium Blue", "Titanium Natural"],
+        "price": 1199,
+        "image_url": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-15-pro-finish-select-202309-6-7inch-whitetitanium?wid=5120&hei=2880&fmt=p-jpg&qlt=80&.v=VW44dkRidm5wazhwcGxtL0cyaEJ2VTkrNXBUdUJSK1k4NE5seUtJaW80ZkRmbnd3M3NkTWdNTTIrREE3akpCaWlCQmV2WTA2cncybDF2YzFnKzI0S3J4M3lYcDIyK01lckZBaW5GTC9DMEQxcjBVRyswWG14bEI4WVZBcUIybEZjbk10T2pDQ3hjTkVEUGVzeFhCeVRnPT0=&traceId=1",
+        "description": "iPhone 15 Pro Max offers a new titanium design, powerful A17 Pro chip, and a stunning 48MP camera for an unmatched mobile experience."
+      },
+      {
+        "model": "iPhone 15",
+        "release_year": 2023,
+        "storage_options": ["128GB", "256GB", "512GB"],
+        "colors": ["Black", "White", "Blue", "Pink", "Yellow"],
+        "price": 799,
+        "image_url": "https://www.siliconrepublic.com/wp-content/uploads/2023/09/Apple-iPhone-15-lineup-hero-geo-230912_inline.jpg.large_2x-857x1200.jpg",
+        "description": "The iPhone 15 delivers essential performance with A16 Bionic chip, vibrant colors, and improved battery life for day-to-day use."
+      },
+      {
+        "model": "iPhone 14 Pro Max",
+        "release_year": 2022,
+        "storage_options": ["128GB", "256GB", "512GB", "1TB"],
+        "colors": ["Deep Purple", "Silver", "Gold", "Space Black"],
+        "price": 1099,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW8oMYHFhwUw95wh1mg93PWCr3tU249xzMuw&s",
+        "description": "iPhone 14 Pro Max with its 6.7-inch display, A16 Bionic chip, and Pro camera system provides a top-tier performance."
+      },
+      {
+        "model": "iPhone 14",
+        "release_year": 2022,
+        "storage_options": ["128GB", "256GB", "512GB"],
+        "colors": ["Blue", "Purple", "Midnight", "Starlight", "Red"],
+        "price": 799,
+        "image_url": "https://img.freepik.com/premium-vector/iphone-14-mockup-isolated-white-background-with-blank-screen_694085-134.jpg",
+        "description": "The iPhone 14 continues Apple's tradition of delivering powerful performance with new features like crash detection and improved battery life."
+      },
+      {
+        "model": "iPhone 13 Pro",
+        "release_year": 2021,
+        "storage_options": ["128GB", "256GB", "512GB", "1TB"],
+        "colors": ["Graphite", "Gold", "Silver", "Sierra Blue"],
+        "price": 999,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcBBf6g5_krsn5EpMoyic-c5DWt43l7xdHMg&s",
+        "description": "iPhone 13 Pro introduces ProMotion display with 120Hz refresh rate, A15 Bionic chip, and improved camera performance."
+      },
+      {
+        "model": "iPhone 13",
+        "release_year": 2021,
+        "storage_options": ["128GB", "256GB", "512GB"],
+        "colors": ["Pink", "Blue", "Midnight", "Starlight", "Red"],
+        "price": 699,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDq3wL3phT4zNh9nmvq1wEZ1o78jNTfyszmQ&s",
+        "description": "With the A15 Bionic chip and advanced dual-camera system, iPhone 13 offers powerful performance in a more affordable package."
+      },
+      {
+        "model": "iPhone 12 Pro Max",
+        "release_year": 2020,
+        "storage_options": ["128GB", "256GB", "512GB"],
+        "colors": ["Graphite", "Silver", "Gold", "Pacific Blue"],
+        "price": 1099,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxQAxLNe_jjbc7mQhCjp8rap8Wy_FPdw98-A&s",
+        "description": "iPhone 12 Pro Max features Ceramic Shield, 5G capabilities, and a LiDAR scanner for pro-level photography and augmented reality."
+      },
+      {
+        "model": "iPhone 12",
+        "release_year": 2020,
+        "storage_options": ["64GB", "128GB", "256GB"],
+        "colors": ["Black", "White", "Red", "Green", "Blue", "Purple"],
+        "price": 699,
+        "image_url": "https://i.pinimg.com/736x/72/cb/7f/72cb7ffe1340f851cb54c480496d6cf3.jpg",
+        "description": "iPhone 12 combines A14 Bionic chip and Super Retina XDR display in a sleek, colorful design for exceptional performance."
+      },
+      {
+        "model": "iPhone 11 Pro",
+        "release_year": 2019,
+        "storage_options": ["64GB", "256GB", "512GB"],
+        "colors": ["Midnight Green", "Space Gray", "Silver", "Gold"],
+        "price": 999,
+        "image_url": "https://res.cloudinary.com/dhsjpmqz9/f_auto,q_auto,w_700,c_fill,g_auto/iPhone_11_Pro_-_Space_Gray_qehoek",
+        "description": "iPhone 11 Pro introduces the triple-camera system, Night mode, and A13 Bionic chip for smooth performance and stunning photos."
+      },
+      {
+        "model": "iPhone SE (3rd generation)",
+        "release_year": 2022,
+        "storage_options": ["64GB", "128GB", "256GB"],
+        "colors": ["Midnight", "Starlight", "Red"],
+        "price": 429,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBVgSjS62snh3cV_A6D8XYo1vWD29HVXBCqA&s",
+        "description": "iPhone SE (3rd generation) offers the power of A15 Bionic in a compact, classic design, providing excellent value for a budget iPhone."
+      }
+    ]
+  }
+  
